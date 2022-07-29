@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://SnowSlurpie.github.io/runbuddy/
+https://snowslurpie.github.io/run_buddy/
 
 ## Contribution
 Made with ❤️ by [Alex Running](github.com/SnowSlurpie)
